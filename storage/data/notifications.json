@@ -1,0 +1,16 @@
+[
+    {
+        "title": "تحديث",
+        "name": "تحديث التطبيق",
+        "description": "النسخة هذه اصبحة غير مدعومة يرجى تحديث التطبيق",
+        "image": "https://pin.it/3ZwiThT99",
+        "poster": "",
+        "logo": "",
+        "url": "",
+        "position": 1,
+        "enabled": true,
+        "message": "يرجى تحديث التطبيق لضمان عمله النسسخة هذه اصبحت غير مدعومة",
+        "type": "update",
+        "id": 1
+    }
+]

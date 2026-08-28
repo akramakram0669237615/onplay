@@ -1,0 +1,9 @@
+{
+    "app_name": "ONPLAY",
+    "latest_version_code": 1,
+    "minimum_version_code": 1,
+    "force_update": true,
+    "maintenance": false,
+    "maintenance_message": "",
+    "update_url": ""
+}
