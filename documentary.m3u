@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AlJazeeraDocumentary.qa" tvg-name="Al Jazeera Documentary" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e6/Al_Jazeera_Doc.png" tvg-country="QA" tvg-language="Arabic" group-title="Documentary",Al Jazeera Documentary
+https://live-hls-apps-ajd-fa.getaj.net/AJD/index.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDocumentary.sa" tvg-name="Asharq Documentary" tvg-logo="https://i.imgur.com/v6VsFEt.png" tvg-country="SA" tvg-language="Arabic" group-title="Documentary",Asharq Documentary
+https://svs.itworkscdn.net/asharqdocumentarylive/asharqdocumentary.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="AsharqDiscovery.sa" tvg-name="Asharq Discovery" tvg-logo="https://i.imgur.com/Czxi7yk.png" tvg-country="SA" tvg-language="Arabic" group-title="Documentary",Asharq Discovery
+https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicAbuDhabi.ae" tvg-name="National Geographic Abu Dhabi" tvg-logo="https://i.imgur.com/fNA00VF.png" tvg-country="AE" tvg-language="Arabic" group-title="Documentary",National Geographic Abu Dhabi
+https://admn-live-cdn-lb.starzplayarabia.com/out/v1/admn_tv_enc/national_geo/national_geo_hls_nd/index.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.tr" tvg-name="National Geographic Turkey" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png" tvg-country="TR" tvg-language="Turkish" group-title="Documentary",National Geographic Turkey
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+
+#EXTINF:-1 tvg-id="AutenticHistory.de" tvg-name="Autentic History" tvg-logo="https://d3b6luslimvglo.cloudfront.net/images/79/rlaxximages/channels-rescaled/icon-white/autentichistory_white.png" tvg-country="DE" tvg-language="English" group-title="Documentary",Autentic History
+https://9e754fa707344ccca6d84955c8fcaf36.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RlaxxTV-eu_AutenticHistory/playlist.m3u8
+
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="N24 Doku" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/N24Doku.svg/960px-N24Doku.svg.png" tvg-country="DE" tvg-language="German" group-title="Documentary",N24 Doku
+https://jmp2.uk/plu-60080e8a4bf36000076a81b1.m3u8
+
+#EXTINF:-1 tvg-id="AtlasTV.us" tvg-name="Atlas" tvg-logo="https://whiplash.cc/assets/img/channels/atlas.png" tvg-country="US" tvg-language="English" group-title="Documentary",Atlas
+https://cdn.whiplash.cc/whiplash-atlas/index.m3u8
